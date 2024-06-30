@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Custom styles */
+.code-block {
+    max-height: 24rem; /* Adjust the height as needed */
+  }

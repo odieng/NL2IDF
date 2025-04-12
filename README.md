@@ -39,6 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
+```mermaid
 graph LR
     subgraph "Acteurs / Utilisateurs"
         A1[Éleveur / Détenteur]
@@ -136,4 +137,4 @@ graph LR
     style D1 fill:#ffffcc,stroke:#333,stroke-width:1px
     style D2 fill:#ffffcc,stroke:#333,stroke-width:1px
     style D3 fill:#ffffcc,stroke:#333,stroke-width:1px
-
+```
